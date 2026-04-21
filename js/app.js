@@ -179,3 +179,4 @@ submitButton.addEventListener("click", submitScore);
 
 updateUI();
 loadScoreboard();
+//ladda upp till github
